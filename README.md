@@ -1,4 +1,3 @@
-# Coffre-fort-St-ganographique---Vault-Steganography
 Coffre fort Stéganographique - Vault Steganography
 
 Coffre Fort Sténo
