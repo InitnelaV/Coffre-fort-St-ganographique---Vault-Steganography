@@ -1,7 +1,6 @@
 Coffre fort Stéganographique - Vault Steganography
 
-Coffre Fort Sténo
-Coffre Fort Sténo est un script Python open‑source permettant de créer un coffre‑fort numérique basé sur la stéganographie.
+Coffre Fort Sténo est un script Python open‑source permettant de générer un coffre‑fort numérique basé sur la stéganographie.
 L’idée est simple : dissimuler vos données sensibles dans une image de votre choix, afin de créer un coffre‑fort personnalisé, discret et difficile à détecter.
 Ce projet détourne les techniques classiques de stéganographie pour les transformer en un outil de stockage sécurisé, simple à utiliser et entièrement local.
 
